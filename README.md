@@ -74,7 +74,7 @@ Every project ships with a structured README. The Day 28 capstone becomes a full
 I'm open to networking and conversations about cloud security, DevSecOps, and over all just breaking into the industry.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/njabulo-shabalala)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/njabuloshabalala.github.io-) 
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/NjabuloShabalala) 
 [![Hashnode](https://img.shields.io/badge/Hashnode-%232962FF.svg?style=flat-square&logo=hashnode&logoColor=white)](https://njabuloshabalala.hashnode.dev)
 
 ---
